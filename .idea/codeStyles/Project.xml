@@ -37,9 +37,6 @@
     <option name="INNER_CLASSES_ORDER_WEIGHT" value="2" />
     <option name="FORMATTER_TAGS_ENABLED" value="true" />
     <option name="WRAP_COMMENTS" value="true" />
-    <AndroidXmlCodeStyleSettings>
-      <option name="ARRANGEMENT_SETTINGS_MIGRATED_TO_191" value="true" />
-    </AndroidXmlCodeStyleSettings>
     <GroovyCodeStyleSettings>
       <option name="STATIC_FIELDS_ORDER_WEIGHT" value="3" />
       <option name="FIELDS_ORDER_WEIGHT" value="4" />

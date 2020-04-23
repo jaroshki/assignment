@@ -10,7 +10,7 @@ import kotlin.random.Random
 class StudentDotsBoxGame : AbstractDotsAndBoxesGame() {
     override val players: List<Player> = TODO("You will need to get players from your constructor")
 
-    override val currentPlayer: Player get()= TODO("Determine the current player, like keeping" +
+    override val currentPlayer: Player get()= TODO("Detasdasdermine the current player, like keeping" +
                                                            "the index into the players list")
 
     // NOTE: you may want to me more specific in the box type if you use that type in your class
